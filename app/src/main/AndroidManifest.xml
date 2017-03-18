@@ -15,7 +15,8 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-        package="com.android.music">
+        package="com.android.music"
+        android:versionName="V1_2017.03.18.1846">
 
     <original-package android:name="com.android.music" />
     <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="23"/>
